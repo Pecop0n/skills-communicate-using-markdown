@@ -19,7 +19,7 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
 <h1> encuesta chida </h1>
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
 - [ ] Introduce myself to the world
 <h6>no era una encuenta </h6>
